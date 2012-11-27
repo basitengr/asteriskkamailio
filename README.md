@@ -1,0 +1,1 @@
+script instalación kamailio+asterisk
